@@ -1,0 +1,11 @@
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\obj\Debug\grafika-wielokaty.csprojAssemblyReference.cache
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\obj\Debug\grafika_wielokaty.MainForm.resources
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\obj\Debug\grafika_wielokaty.Properties.Resources.resources
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\obj\Debug\grafika-wielokaty.csproj.GenerateResource.cache
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\obj\Debug\grafika-wielokaty.csproj.CoreCompileInputs.cache
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\bin\Debug\grafika-wielokaty.exe.config
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\bin\Debug\grafika-wielokaty.exe
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\bin\Debug\grafika-wielokaty.pdb
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\obj\Debug\grafika-wielokaty.exe
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\obj\Debug\grafika-wielokaty.pdb
+C:\Users\Krzychu\source\repos\grafika-wielokaty\grafika-wielokaty\obj\Debug\grafika_wielokaty.Form2.resources
